@@ -117,7 +117,6 @@ jupyter notebook notebooks/Revenue_Data_and_Building_a_Dashboard.ipynb
 ## 🔗 Links
 
 - 🌐 [Portfolio — egemenerin.com](https://www.egemenerin.com)
-- 📊 [IBM Cognos Dashboard](#) *(link to published dashboard)*
 - 📧 egemeneriin@protonmail.com
 
 ---
@@ -125,4 +124,4 @@ jupyter notebook notebooks/Revenue_Data_and_Building_a_Dashboard.ipynb
 ## 👤 Author
 
 **Egemen Erin** — Data Analyst  
-IBM Data Analytics Capstone | *July 2025*
+IBM Data Analytics Capstone | *May 2026*
